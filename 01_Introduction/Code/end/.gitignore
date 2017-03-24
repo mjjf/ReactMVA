@@ -34,3 +34,5 @@ node_modules
 
 # Typings directory
 typings
+
+#I'm an extra comment that will show up as a change in git (testing)
